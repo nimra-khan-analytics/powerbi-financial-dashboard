@@ -27,6 +27,10 @@ company performance across financial statements, key ratios, and profitability t
 ### Profitability and trends
 ![Profitability Trends](images/powerbi-profitability-trends.png)
 
+## Supporting report
+A detailed financial analysis report interpreting the dashboard insights is available here:
+[Power BI Financial Analysis Report (PDF)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
 ## Author
 Nimra Khan
 
