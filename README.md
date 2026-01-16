@@ -1,4 +1,4 @@
-# p# Power BI Financial Dashboard
+# Power BI Financial Dashboard
 
 ## Overview
 This project presents interactive Power BI dashboards built using real financial data to analyse
